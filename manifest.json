@@ -1,0 +1,12 @@
+{
+  "name":"My Portfolio",
+  "short_name":"Portfolio",
+  "id":"./",
+  "start_url":"./index.html",
+  "scope":"./",
+  "display":"standalone",
+  "background_color":"#0b1020",
+  "theme_color":"#111827",
+  "description":"My personal portfolio, projects and learning resources.",
+  "icons":[{"src":"profile.png","sizes":"any","type":"image/png","purpose":"any"}]
+}
